@@ -1,2 +1,6 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio Bootcamp Carreforu - Primeiro repositório
+# Desafio do Projeto sobre Git/GitHub da DIO
+Repositório criado para o Desafio de Proejto
+
+## Links úteis
+[Sintaxe_Basica_Markdown](https://www.markdownguide.org/basic-syntax/)
+
