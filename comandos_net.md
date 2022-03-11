@@ -2,7 +2,7 @@
 
 OBS: Sempre iniciar os comandos do .NET com dotnet.
 
-[dotnet -- version] - "mostra a versão do .NET"
+[dotnet -- version] - "mostra a versão do .NET"<br>
 [dotnet --help] - "mostra diversos comandos"
 [dotnet --info] - "informações da máquina e do software"
 [dotnet new] - "cria um novo projeto"
