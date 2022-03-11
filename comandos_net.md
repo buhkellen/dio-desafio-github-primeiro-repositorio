@@ -3,12 +3,12 @@
 OBS: Sempre iniciar os comandos do .NET com dotnet.
 
 [dotnet -- version] - "mostra a versão do .NET"<br>
-[dotnet --help] - "mostra diversos comandos"
-[dotnet --info] - "informações da máquina e do software"
-[dotnet new] - "cria um novo projeto"
-[dotnet new --list --tag web] - "filtra as tags de web"
-[dotnet new console -o myApp] - "designa o nome do proejto e o modelo (console)"
-[cd myApp] - "entra na pasta myApp"
-[dotnet run] - "executa"
-[dotnet build] - "atualiza os projetos"
-[dotnet restore] - "todos os projetos sãp restaurados"
+[dotnet --help] - "mostra diversos comandos"<br>
+[dotnet --info] - "informações da máquina e do software"<br>
+[dotnet new] - "cria um novo projeto"<br>
+[dotnet new --list --tag web] - "filtra as tags de web"<br>
+[dotnet new console -o myApp] - "designa o nome do proejto e o modelo (console)"<br>
+[cd myApp] - "entra na pasta myApp"<br>
+[dotnet run] - "executa"<br>
+[dotnet build] - "atualiza os projetos"<br>
+[dotnet restore] - "todos os projetos são restaurados"<br>
