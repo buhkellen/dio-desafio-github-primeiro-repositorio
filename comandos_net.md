@@ -10,5 +10,5 @@ OBS: Sempre iniciar os comandos do .NET com dotnet.
 [dotnet new console -o myApp] - "designa o nome do proejto e o modelo (console)"<br>
 [cd myApp] - "entra na pasta myApp"<br>
 [dotnet run] - "executa"<br>
-[dotnet build] - "atualiza os projetos"<br>
+[dotnet build] - "atualiza os projetos/compila"<br>
 [dotnet restore] - "todos os projetos são restaurados"<br>
